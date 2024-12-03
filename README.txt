@@ -37,7 +37,7 @@ Setting Up the Golang Project:
 	go mod tidy
 	go run main.go
 	
-Setting Up the Laravel Project:
+Setting Up the Laravel Project: Open another terminal
 	cd ~/laravel-golang-project/frontend
 	composer install
 	cp .env.example .env
