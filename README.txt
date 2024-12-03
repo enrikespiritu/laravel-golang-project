@@ -40,6 +40,7 @@ Setting Up the Golang Project:
 Setting Up the Laravel Project:
 	cd ~/laravel-golang-project/frontend
 	composer install
+	cp .env.example .env
 	php artisan serve
 	
 Open a browser and go to: http://127.0.0.1:8000
